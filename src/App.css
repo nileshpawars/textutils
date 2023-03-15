@@ -1,0 +1,11 @@
+.btn-group.color-paletes {
+  display: flex;
+  grid-gap: 0.5rem;
+  margin-right: 1rem;
+}
+
+.btn-group.color-paletes button{
+  border-radius: 50%!important;
+  width: 25px;
+  height: 25px;
+}
